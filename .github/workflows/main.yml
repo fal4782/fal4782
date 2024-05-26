@@ -27,5 +27,9 @@ jobs:
           # Options
           user: fal4782
           config_timezone: Asia/Calcutta
+          name: Full-year calendar
+          filename: metrics.plugin.isocalendar.fullyear.svg
+          base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+
