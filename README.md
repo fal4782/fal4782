@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Metrics](https://metrics.lecoq.io/fal4782?template=classic&isocalendar=1&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FCalcutta)
+![Metrics](https://metrics.lecoq.io/fal4782?isocalendar=1&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FCalcutta)
