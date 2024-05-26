@@ -26,7 +26,6 @@ jobs:
 
           # Options
           user: fal4782
-          template: classic
           config_timezone: Asia/Calcutta
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
