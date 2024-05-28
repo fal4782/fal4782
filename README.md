@@ -11,7 +11,7 @@
 **Languages**<br>
 [![My Languages](https://skillicons.dev/icons?i=js,ts,bash)](https://skillicons.dev)<br>
 **Frontend**<br>
-[![My Languages](https://skillicons.dev/icons?i=angular,bootstrap,html,css,tailwind)](https://skillicons.dev)<br>
+[![My Languages](https://skillicons.dev/icons?i=angular,vue,bootstrap,html,css,tailwind)](https://skillicons.dev)<br>
 **Backend**<br>
 [![My Languages](https://skillicons.dev/icons?i=express,nodejs,npm)](https://skillicons.dev)<br>
 **DB**<br>
