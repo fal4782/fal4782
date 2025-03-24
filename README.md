@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @fal4782
 - 🌱 I’m currently learning Springboot
 - 💞️ I’m looking to collaborate on any full-stack projects
-- 📫 How to reach me email: falguni4782@gmail.com, Instagram: @fal_tee_
+- 📫 How to reach me email: falguni4782@gmail.com
    <!-- - 👀 I’m interested in remote work/freelance projects -->
 
 ## Techstack
